@@ -2,14 +2,11 @@ name: Sync interface.txt
 
 on:
   schedule:
-    - cron: "0 * * * *"     # 每小时跑一次；可按需调整
-  workflow_dispatch:         # 允许在 Actions 页面手动触发
-  push:
-    paths:
-      - ".github/workflows/sync.yml"   # 修改工作流时可自动触发一次（可选）
+    - cron: "0 * * * *"   # 每小时执行一次
+  workflow_dispatch:       # 允许手动触发
 
 permissions:
-  contents: write            # 关键：允许写入代码
+  contents: write          # 允许写入代码
 
 jobs:
   sync:
@@ -18,8 +15,8 @@ jobs:
       - name: Checkout self repo
         uses: actions/checkout@v4
         with:
-          persist-credentials: true    # 使用 GITHUB_TOKEN 推送
-          fetch-depth: 0               # 保留历史，避免浅克隆导致 diff 异常
+          persist-credentials: true
+          fetch-depth: 0
 
       - name: Download latest interface.txt from upstream
         run: |
@@ -28,7 +25,6 @@ jobs:
 
       - name: Commit and push if changed
         run: |
-          git status
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add interface.txt
