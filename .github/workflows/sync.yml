@@ -2,24 +2,39 @@ name: Sync interface.txt
 
 on:
   schedule:
-    - cron: "0 * * * *"   # 每小时执行一次
-  workflow_dispatch:       # 允许手动触发
+    - cron: "0 * * * *"     # 每小时跑一次；可按需调整
+  workflow_dispatch:         # 允许在 Actions 页面手动触发
+  push:
+    paths:
+      - ".github/workflows/sync.yml"   # 修改工作流时可自动触发一次（可选）
+
+permissions:
+  contents: write            # 关键：允许写入代码
 
 jobs:
   sync:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout self repo
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true    # 使用 GITHUB_TOKEN 推送
+          fetch-depth: 0               # 保留历史，避免浅克隆导致 diff 异常
 
-      - name: Download latest interface.txt
+      - name: Download latest interface.txt from upstream
         run: |
-          curl -s https://raw.githubusercontent.com/develop202/migu_video/main/interface.txt -o interface.txt
+          curl -sSL https://raw.githubusercontent.com/develop202/migu_video/main/interface.txt -o interface.txt
+          test -s interface.txt || (echo "Upstream returned empty file" && exit 1)
 
       - name: Commit and push if changed
         run: |
-          git config user.name "github-actions"
-          git config user.email "actions@github.com"
+          git status
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
           git add interface.txt
-          git diff --cached --quiet || git commit -m "Update interface.txt from upstream"
-          git push
+          if git diff --cached --quiet; then
+            echo "No changes; nothing to commit."
+          else
+            git commit -m "chore: sync interface.txt from upstream"
+            git push origin HEAD:main
+          fi
