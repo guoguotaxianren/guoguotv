@@ -1,0 +1,25 @@
+name: Sync 2025.txt from Gitee
+
+on:
+  schedule:
+    - cron: '0 * * * *'   # 每小时执行一次
+  workflow_dispatch:       # 允许手动触发
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout GitHub repo
+        uses: actions/checkout@v3
+
+      - name: Download file from Gitee
+        run: |
+          curl -L "https://gitee.com/buzhenglin2025/tv/raw/master/2025.txt" -o 2025.txt
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add 2025.txt
+          git commit -m "Sync 2025.txt from Gitee" || echo "No changes to commit"
+          git push
