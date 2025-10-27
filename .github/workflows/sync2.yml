@@ -1,25 +1,37 @@
-name: Sync 2025.txt from Gitee
+name: Sync interface.txt
 
 on:
   schedule:
-    - cron: '0 * * * *'   # 每小时执行一次
+    - cron: "0 * * * *"   # 每小时执行一次
   workflow_dispatch:       # 允许手动触发
+
+permissions:
+  contents: write          # 允许写入代码
 
 jobs:
   sync:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout GitHub repo
-        uses: actions/checkout@v3
+      - name: Checkout self repo
+        uses: actions/checkout@v4
+        with:
+          ref: main            # 明确指定分支
+          fetch-depth: 0       # 完整历史，避免 rebase 出错
 
-      - name: Download file from Gitee
+      - name: Download latest interface.txt from upstream
         run: |
-          curl -L "https://gitee.com/buzhenglin2025/tv/raw/master/2025.txt" -o 2025.txt
+          curl -sSL https://raw.githubusercontent.com/develop202/migu_video/main/interface.txt -o interface.txt
+          test -s interface.txt || (echo "Upstream returned empty file" && exit 1)
 
       - name: Commit and push if changed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add 2025.txt
-          git commit -m "Sync 2025.txt from Gitee" || echo "No changes to commit"
-          git push
+          git add interface.txt
+          if git diff --cached --quiet; then
+            echo "No changes; nothing to commit."
+          else
+            git commit -m "chore: sync interface.txt from upstream"
+            git pull --rebase origin main   # 关键：先同步远程，避免 128 错误
+            git push origin HEAD:main
+          fi
