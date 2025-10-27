@@ -1,0 +1,555 @@
+#EXTM3U x-tvg-url="https://gitee.com/taksssss/tv/raw/main/epg/epgpw_cn.xml.gz,https://gitee.com/taksssss/tv/raw/main/epg/epgpw_hk.xml.gz,https://gitee.com/taksssss/tv/raw/main/epg/epgpw_tw.xml.gz,http://epg.myxcwh.com:5678/epg,https://epg.aptv.app/pp.xml.gz" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/buzhenglin2025/tv/raw/master/logo/CCTV1.png" group-title="央视频道",CCTV1
+http://sjx_jt.x3322.net:9901/tsfile/live/0001_1.m3u8?$sj酒店
+http://1.032000.xyz:8848/udp/239.94.0.31:5140$四川电信
+http://go.bkpcp.top/mg/cctv1?$BKPCP
+http://110.42.37.69:6688/live/live.php?token=reOPfGMpMD&id=cctv1&$郑州电信
+https://live.ottiptv.cc/mcp/cctv1.m3u8?userid=8135866366&sign=744c6ad8f28a1e4400c8acef79df7df321ef09bfa4933016e7dee1d5bf097bfb977d9e77c5527699fd1da645a6da44758ecc89979b960ab28e70f94a25edbd76c23aec50c55cc06a0dea34d2ee&auth_token=b17f3f1f6d558d102c96202d6975b7ed$肥羊
+http://aik.ddnsfile.top:65235/rtp/239.21.1.120:5002$ddn
+http://www.gcc125.cn:6888/rtp/239.49.0.207:8000$江苏南京组播
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://gitee.com/buzhenglin2025/tv/raw/master/logo/CCTV2.png" group-title="央视频道",CCTV2
+http://sjx_jt.x3322.net:9901/tsfile/live/0002_1.m3u8?$sj酒店
+http://1.032000.xyz:8848/udp/239.93.30.59:5140$四川电信
+http://go.bkpcp.top/mg/cctv2?$BKPCP
+http://110.42.37.69:6688/live/live.php?token=reOPfGMpMD&id=cctv2&$郑州电信
+https://live.ottiptv.cc/mcp/cctv2.m3u8?userid=8135866366&sign=b38309a0f99e4fe9486268d34912b6b49d9262322200b390405cffe56bd5cb9e165d9e9f43890d4803dc7b0002f43af0dfdb367f003fe7b6607ae683c5be32d310878197163dc121286f3df1e7&auth_token=b17f3f1f6d558d102c96202d6975b7ed$肥羊
+http://aik.ddnsfile.top:65235/rtp/239.21.1.151:5002$ddn
+http://www.gcc125.cn:6888/rtp/239.49.8.50:9802$江苏南京组播
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://gitee.com/buzhenglin2025/tv/raw/master/logo/CCTV3.png" group-title="央视频道",CCTV3
+http://sjx_jt.x3322.net:9901/tsfile/live/0003_1.m3u8?$sj酒店
+http://1.032000.xyz:8848/udp/239.93.30.109:5140$四川电信
+http://go.bkpcp.top/mg/cctv3?$BKPCP
+http://110.42.37.69:6688/live/live.php?token=reOPfGMpMD&id=cctv3&$郑州电信
+https://live.ottiptv.cc/mcp/cctv3.m3u8?userid=8135866366&sign=d80fba01fa19f1b1d040b601422c7247a48e11dabb80877c97e6a1c1ecca7cc816a479abdab04493ee6369c7cd971f6c238d3c91ff728fe152e1fb5968476543ab2011027c0529ca429c9b8861&auth_token=b17f3f1f6d558d102c96202d6975b7ed$肥羊
+http://aik.ddnsfile.top:65235/rtp/239.21.2.45:5002$ddn
+http://www.gcc125.cn:6888/rtp/239.49.8.74:8000$江苏南京组播
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://gitee.com/buzhenglin2025/tv/raw/master/logo/CCTV4.png" group-title="央视频道",CCTV4
+http://sjx_jt.x3322.net:9901/tsfile/live/0004_1.m3u8?$sj酒店
+http://1.032000.xyz:8848/udp/239.93.30.60:5140$四川电信
+http://go.bkpcp.top/mg/cctv4?$BKPCP
+http://110.42.37.69:6688/live/live.php?token=reOPfGMpMD&id=cctv4&$郑州电信
+https://live.ottiptv.cc/mcp/cctv4.m3u8?userid=8135866366&sign=8bd38721856387203cf3e655d18f1fdcd8bc919efad8ea2ada8d3e6e53119188c19e42f6f392a18706201805478bf25c80bf4e53941e33472c77e90a579a5e2f7200b970476e2e2622f2e9fffb&auth_token=b17f3f1f6d558d102c96202d6975b7ed$肥羊
+http://aik.ddnsfile.top:65235/rtp/239.21.1.154:5002$ddn
+http://www.gcc125.cn:6888/rtp/239.49.1.4:6000$江苏南京组播
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://gitee.com/buzhenglin2025/tv/raw/master/logo/CCTV5.png" group-title="央视频道",CCTV5
+http://sjx_jt.x3322.net:9901/tsfile/live/0005_1.m3u8?$sj酒店
+http://1.032000.xyz:8848/udp/239.93.30.12:5140$四川电信
+http://go.bkpcp.top/mg/cctv5?$BKPCP
+http://110.42.37.69:6688/live/live.php?token=reOPfGMpMD&id=cctv5&$郑州电信
+https://live.ottiptv.cc/mcp/cctv5.m3u8?userid=8135866366&sign=3805fd19c265eb6bfea7b5a2835875568c8718f9ac0a33956f78570f0e43dd4322a082987169b2cd37ddbca23e1eaaa64fb9d7e0c06180fa2431b564adc5857ddf1204e13c3c52d19eaeb81ddf&auth_token=b17f3f1f6d558d102c96202d6975b7ed$肥羊
+http://aik.ddnsfile.top:65235/rtp/239.21.2.46:5002$ddn
+http://www.gcc125.cn:6888/rtp/239.49.8.75:8000$江苏南京组播
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://gitee.com/buzhenglin2025/tv/raw/master/logo/CCTV6.png" group-title="央视频道",CCTV6
+http://sjx_jt.x3322.net:9901/tsfile/live/0006_1.m3u8?$sj酒店
+http://1.032000.xyz:8848/udp/239.94.0.34:5140$四川电信
+http://go.bkpcp.top/mg/cctv6?$BKPCP
+http://110.42.37.69:6688/live/live.php?token=reOPfGMpMD&id=cctv6&$郑州电信
+https://live.ottiptv.cc/mcp/cctv6.m3u8?userid=8135866366&sign=b92f56651cc9af656574d5c3a1b23b4a8a5fe2bac979b2cdab98d5331969430835968eec56efe57e584c8219a1fcb7f8a40b28df9368ddf3221cd3129c0eada20e31df36f9af6d1f1420fdd9fc&auth_token=b17f3f1f6d558d102c96202d6975b7ed$肥羊
+http://aik.ddnsfile.top:65235/rtp/239.21.2.47:5002$ddn
+http://www.gcc125.cn:6888/rtp/239.49.8.76:8000$江苏南京组播
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://gitee.com/buzhenglin2025/tv/raw/master/logo/CCTV7.png" group-title="央视频道",CCTV7
+http://sjx_jt.x3322.net:9901/tsfile/live/0007_1.m3u8?$sj酒店
+http://1.032000.xyz:8848/udp/239.93.30.61:5140$四川电信
+http://go.bkpcp.top/mg/cctv7?$BKPCP
+http://110.42.37.69:6688/live/live.php?token=reOPfGMpMD&id=cctv7&$郑州电信
+https://live.ottiptv.cc/mcp/cctv7.m3u8?userid=8135866366&sign=0712da47e07a886863c3080ab7a8378a80fe96a88440a99729150e8f9bec75fa14051333ef887016501ab901497bbe53e54f9f11bbb184d0764468388d800d8b3e6ab29d9fd5735bfe694d6321&auth_token=b17f3f1f6d558d102c96202d6975b7ed$肥羊
+http://aik.ddnsfile.top:65235/rtp/239.21.1.152:5002$ddn
+http://www.gcc125.cn:6888/rtp/239.49.0.126:8000$江苏南京组播
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://gitee.com/buzhenglin2025/tv/raw/master/logo/CCTV8.png" group-title="央视频道",CCTV8
+http://sjx_jt.x3322.net:9901/tsfile/live/0008_1.m3u8?$sj酒店
+http://1.032000.xyz:8848/udp/239.94.0.35:5140$四川电信
+http://go.bkpcp.top/mg/cctv8?$BKPCP
+http://110.42.37.69:6688/live/live.php?token=reOPfGMpMD&id=cctv8&$郑州电信
+https://live.ottiptv.cc/mcp/cctv8.m3u8?userid=8135866366&sign=f8d737e86e439adf8a88bf54420280f8dbaf51f4cea5259fbacfc8962ae90b5119ee0a08eb004f3384917971f682f10a8cbb71e814aef8c24f6971839e69649cda45076f3fc471244651360416&auth_token=b17f3f1f6d558d102c96202d6975b7ed$肥羊
+http://aik.ddnsfile.top:65235/rtp/239.21.2.48:5002$ddn
+http://www.gcc125.cn:6888/rtp/239.49.8.77:8000$江苏南京组播
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://gitee.com/buzhenglin2025/tv/raw/master/logo/CCTV9.png" group-title="央视频道",CCTV9
+http://sjx_jt.x3322.net:9901/tsfile/live/0009_1.m3u8?$sj酒店
+http://1.032000.xyz:8848/udp/239.93.30.2:5140$四川电信
+http://go.bkpcp.top/mg/cctv9?$BKPCP
+http://110.42.37.69:6688/live/live.php?token=reOPfGMpMD&id=cctv9&$郑州电信
+https://live.ottiptv.cc/mcp/cctv9.m3u8?userid=8135866366&sign=0af45954d147a8cb848942c77a4fe3644581eef0fe04601a56a051cda27675570ad4b045c52b68b319d7aa939eac5822febc8938c748af53ffb59dbc2a22a2b73621ef3df041326fcb59b75c33&auth_token=b17f3f1f6d558d102c96202d6975b7ed$肥羊
+http://aik.ddnsfile.top:65235/rtp/239.21.1.153:5002$ddn
+http://125.42.149.115:9901/tsfile/live/1005_1.m3u8
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://gitee.com/buzhenglin2025/tv/raw/master/logo/CCTV10.png" group-title="央视频道",CCTV10
+http://sjx_jt.x3322.net:9901/tsfile/live/0010_1.m3u8?$sj酒店
+http://1.032000.xyz:8848/udp/239.93.30.63:5140$四川电信
+http://go.bkpcp.top/mg/cctv10?$BKPCP
+http://110.42.37.69:6688/live/live.php?token=reOPfGMpMD&id=cctv10&$郑州电信
+https://live.ottiptv.cc/mcp/cctv10.m3u8?userid=8135866366&sign=162a3b0e1aa5714e952b17c8d863d9d3643d1ab51c07577e66292a0ae0a5596ef25f20030714786834577d7e95d6a993496efbc9ad49afe0e26965221d09e6d41e3f02559ab275c2058fa426d980&auth_token=b17f3f1f6d558d102c96202d6975b7ed$肥羊
+http://aik.ddnsfile.top:65235/rtp/239.21.1.155:5002$ddn
+http://www.gcc125.cn:6888/rtp/239.49.1.10:6000$江苏南京组播
+#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://gitee.com/buzhenglin2025/tv/raw/master/logo/CCTV11.png" group-title="央视频道",CCTV11
+http://sjx_jt.x3322.net:9901/tsfile/live/0011_1.m3u8?$sj酒店
+http://1.032000.xyz:8848/udp/239.94.0.36:5140$四川电信
+http://go.bkpcp.top/mg/cctv11?$BKPCP
+http://110.42.37.69:6688/live/live.php?token=reOPfGMpMD&id=cctv11&$郑州电信
+https://live.ottiptv.cc/mcp/cctv11.m3u8?userid=8135866366&sign=131b0d05b4635ea1d4cdc455f338428c58f00c6f23c37028be5375c1073e48480786915fb67ebd40991660263bf16ac7fd37b56444260cafee53cd146dfe5ef5aecabb189502096d8dd6868c1e42&auth_token=b17f3f1f6d558d102c96202d6975b7ed$肥羊
+http://aik.ddnsfile.top:65235/rtp/239.21.2.2:5002$ddn
+http://www.gcc125.cn:6888/rtp/239.49.0.127:8000$江苏南京组播
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://gitee.com/buzhenglin2025/tv/raw/master/logo/CCTV12.png" group-title="央视频道",CCTV12
+http://sjx_jt.x3322.net:9901/tsfile/live/0012_1.m3u8?$sj酒店
+http://1.032000.xyz:8848/udp/239.94.0.12:5140$四川电信
+http://go.bkpcp.top/mg/cctv12?$BKPCP
+http://110.42.37.69:6688/live/live.php?token=reOPfGMpMD&id=cctv12&$郑州电信
+https://live.ottiptv.cc/mcp/cctv12.m3u8?userid=8135866366&sign=43c1358f0acb30d7a55a5caef5ecb6dbb854d9a0575fbea990695a2a72cc6ca6d623c646b790a42cfbcd6513513471dec0ac13aaa9bfe1962eef3882c131cc71ca8c7807fea78e7acfcc345867bd&auth_token=b17f3f1f6d558d102c96202d6975b7ed$肥羊
+http://aik.ddnsfile.top:65235/rtp/239.21.1.156:5002$ddn
+http://www.gcc125.cn:6888/rtp/239.49.1.12:6000$江苏南京组播
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://gitee.com/buzhenglin2025/tv/raw/master/logo/CCTV13.png" group-title="央视频道",CCTV13
+http://sjx_jt.x3322.net:9901/tsfile/live/0013_1.m3u8?$sj酒店
+https://srs.erugao.cn/video/cctv-13/index.m3u8
+http://1.032000.xyz:8848/udp/239.93.30.66:5140$四川电信
+http://go.bkpcp.top/mg/cctv13?$BKPCP
+http://110.42.37.69:6688/live/live.php?token=reOPfGMpMD&id=cctv13&$郑州电信
+https://live.ottiptv.cc/mcp/cctv13.m3u8?userid=8135866366&sign=d949888408b0eaf57e09a895c57a260eaa22bcefd7ed746b9bc9b6e6050ca0f5508b4b4a9373ef5a861f6c569d654299525cea7a48de9f05013bb5e003778312b43231d39f9c4f73d419fc764f07&auth_token=b17f3f1f6d558d102c96202d6975b7ed$肥羊
+http://aik.ddnsfile.top:65235/rtp/239.21.2.3:5002$ddn
+http://www.gcc125.cn:6888/rtp/239.49.0.196:8000$江苏南京组播
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://gitee.com/buzhenglin2025/tv/raw/master/logo/CCTV14.png" group-title="央视频道",CCTV14
+http://sjx_jt.x3322.net:9901/tsfile/live/0014_1.m3u8?$sj酒店
+http://1.032000.xyz:8848/udp/239.94.0.14:5140$四川电信
+http://go.bkpcp.top/mg/cctv14?$BKPCP
+http://110.42.37.69:6688/live/live.php?token=reOPfGMpMD&id=cctv14&$郑州电信
+https://live.ottiptv.cc/mcp/cctv14.m3u8?userid=8135866366&sign=f1ff313a362f987d8aa7bb962b123e62b4a7719c724db382c1a200c9c7f8658f20130b08574e9d63e41cf8bd422ecbde8cd766065e4a4a2565a0f772af77d03c3a8697268e5d956a7da390496fde&auth_token=b17f3f1f6d558d102c96202d6975b7ed$肥羊
+http://aik.ddnsfile.top:65235/rtp/239.21.1.157:5002$ddn
+http://www.gcc125.cn:6888/rtp/239.49.1.14:6000$江苏南京组播
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://gitee.com/buzhenglin2025/tv/raw/master/logo/CCTV15.png" group-title="央视频道",CCTV15
+http://sjx_jt.x3322.net:9901/tsfile/live/0015_1.m3u8?$sj酒店
+http://1.032000.xyz:8848/udp/239.93.30.103:5140$四川电信
+http://go.bkpcp.top/mg/cctv15?$BKPCP
+http://110.42.37.69:6688/live/live.php?token=reOPfGMpMD&id=cctv15&$郑州电信
+https://live.ottiptv.cc/mcp/cctv15.m3u8?userid=8135866366&sign=ee8aba903e09f13fc6eff95efe17cb128f89764ff51a11c008b38c97afd926b6603a14683e45c3b48f0974c64117ebea3b44bb38e4d97fa612b2be857a4864dd97517c91606db613eb97e509002b&auth_token=b17f3f1f6d558d102c96202d6975b7ed$肥羊
+http://aik.ddnsfile.top:65235/rtp/239.21.2.4:5002$ddn
+http://www.gcc125.cn:6888/rtp/239.49.0.128:8000$江苏南京组播
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://gitee.com/buzhenglin2025/tv/raw/master/logo/CCTV16.png" group-title="央视频道",CCTV16
+http://110.42.37.69:6688/live/live.php?token=reOPfGMpMD&id=cctv16&$郑州电信
+https://live.ottiptv.cc/mcp/cctv16.m3u8?userid=8135866366&sign=919b98e748b564b3c1dd728f58dcfadcceef16817ea3b42ad738286c258f1736f38ce7b0b1941e1c094459fb9d829a3968e7ec8d9989fc3559d5ab59b7ce857d35bb272a0881767e92a3cc56c273&auth_token=b17f3f1f6d558d102c96202d6975b7ed$肥羊
+http://linqiush.top:9557/edge-cache02.live3.omd.sc96655.com/live/CCTV-16-4K_8000.m3u8?$CCTV16-4K
+http://aik.ddnsfile.top:65235/rtp/239.21.2.51:5002$ddn
+http://www.gcc125.cn:6888/rtp/239.49.8.31:8000$江苏南京组播
+#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://gitee.com/buzhenglin2025/tv/raw/master/logo/CCTV17.png" group-title="央视频道",CCTV17
+http://1.032000.xyz:8848/udp/239.94.0.39:5140$四川电信
+http://go.bkpcp.top/mg/cctv17?$BKPCP
+http://110.42.37.69:6688/live/live.php?token=reOPfGMpMD&id=cctv17&$郑州电信
+https://live.ottiptv.cc/mcp/cctv17.m3u8?userid=8135866366&sign=068f65fa8ac96fdf8033cf2f2d2b934a5f45182a918138f8631fa7db78e3f2d99051aebaf431d155f1d6ae4fab3f3f4e2f98347a1f0163b590680a6b52d599e2e1bf3c34048be2cae652bb8ef950&auth_token=b17f3f1f6d558d102c96202d6975b7ed$肥羊
+http://aik.ddnsfile.top:65235/rtp/239.21.1.186:5002$ddn
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://gitee.com/buzhenglin2025/tv/raw/master/logo/CCTV5+.png" group-title="央视频道",CCTV5+
+http://sjx_jt.x3322.net:9901/tsfile/live/0016_1.m3u8?$sj酒店
+http://1.032000.xyz:8848/udp/239.93.30.36:8004$四川电信
+http://go.bkpcp.top/mg/cctv5p?$BKPCP
+http://110.42.37.69:6688/live/live.php?token=reOPfGMpMD&id=cctv5p&$郑州电信
+http://aik.ddnsfile.top:65235/rtp/239.21.1.142:5002$ddn
+#EXTINF:-1 tvg-name="CCTV4欧洲" tvg-logo="https://gitee.com/buzhenglin2025/tv/raw/master/logo/CCTV4欧洲.png" group-title="央视频道",CCTV4欧洲
+http://go.bkpcp.top/mg/cctv4o?$BKPCP
+https://mgtv.ottiptv.cc/mg/608807419.m3u8?userid=8135866366&sign=f5b4c17b0875777dcee35c4518588cce3eb33407b2987c8d82074edf520030ab1a407ec4dac7c6b001a414f5a1853a6e940bafa47ac8f3bd2e25eb49831224ea941980a3943ab66100fc97129b006a02b8&auth_token=b17f3f1f6d558d102c96202d6975b7ed$肥羊
+#EXTINF:-1 tvg-name="CCTV4美洲" tvg-logo="https://gitee.com/buzhenglin2025/tv/raw/master/logo/CCTV4美洲.png" group-title="央视频道",CCTV4美洲
+http://go.bkpcp.top/mg/cctv4m?$BKPCP
+https://mgtv.ottiptv.cc/mg/608807416.m3u8?userid=8135866366&sign=3fe23c70c7e3458d28be2697772eea620dd18b3f7a78d80851c4cf13d45844e70d4a29675e240320eaa27ac41f192e91e6b186138f14af9e8b6463e7cdfa8a33053d0038192a2029e319ff7d735cb598f3&auth_token=b17f3f1f6d558d102c96202d6975b7ed$肥羊
+#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://gitee.com/buzhenglin2025/tv/raw/master/logo/CCTV4K.png" group-title="央视频道",CCTV4K
+http://1.032000.xyz:8848/udp/239.94.0.20:5140$四川电信
+https://live.ottiptv.cc/mcp/cctv4k.m3u8?userid=8135866366&sign=8f3f782cabf94566b366bba127f0adc2d5c9a9686b39822a30b27258fb7ac2b98dd9ae19e996cfb134a4b228efcc522df4f1af50858153f83ec81bcbe81c3ca0b15a74275a41ae928e288d1a1dfb&auth_token=b17f3f1f6d558d102c96202d6975b7ed$肥羊
+http://www.gcc125.cn:6888/rtp/239.49.0.82:8000$江苏南京组播
+#EXTINF:-1 tvg-name="CCTV8K" tvg-logo="https://gitee.com/buzhenglin2025/tv/raw/master/logo/cctv8k.png" group-title="央视频道",CCTV8K
+http://1.032000.xyz:8848/udp/239.94.2.59:5140$四川电信
+https://live.ottiptv.cc/mcp/cctv8k.m3u8?userid=8135866366&sign=92aaf05a79dc41f80d30e36ac27a5ed4d4402686e99d9cf4c8832cacce852a2de1fd8b0a377d3a3c1728192374b35f7a3c3a4785aac54e918c18a68dfae98762ce0cbaa8024f9fed0e7a5201369a&auth_token=b17f3f1f6d558d102c96202d6975b7ed$肥羊
+#EXTINF:-1 tvg-name="兵器科技" tvg-logo="https://gitee.com/buzhenglin2025/tv/raw/master/logo/CCTV兵器科技.png" group-title="央视付费",CCTV兵器科技
+#EXTINF:-1 tvg-name="世界地理" tvg-logo="https://gitee.com/buzhenglin2025/tv/raw/master/logo/CCTV世界地理.png" group-title="央视付费",CCTV世界地理
+#EXTINF:-1 tvg-name="文化精品" tvg-logo="https://gitee.com/buzhenglin2025/tv/raw/master/logo/CCTV文化精品.png" group-title="央视付费",CCTV文化精品
+#EXTINF:-1 tvg-name="风云音乐" tvg-logo="https://gitee.com/buzhenglin2025/tv/raw/master/logo/CCTV风云音乐.png" group-title="央视付费",CCTV风云音乐
+#EXTINF:-1 tvg-name="风云剧场" tvg-logo="https://gitee.com/buzhenglin2025/tv/raw/master/logo/CCTV风云剧场.png" group-title="央视付费",CCTV风云剧场
+https://live.ottiptv.cc/mcp/fyjc.m3u8?userid=8135866366&sign=64c8be572a3ce09018cf03cac24a5a5ceef52c4ec0ac77da9402e93823cb95e31091ac13fcd6ac46532745927eaa7ec243b0c8a064e9594bce8a4be9e18bb104b6ade78ec5bdc20086004207&auth_token=b17f3f1f6d558d102c96202d6975b7ed$肥羊
+#EXTINF:-1 tvg-name="怀旧剧场" tvg-logo="https://gitee.com/buzhenglin2025/tv/raw/master/logo/CCTV怀旧剧场.png" group-title="央视付费",CCTV怀旧剧场
+https://live.ottiptv.cc/mcp/hjjc.m3u8?userid=8135866366&sign=976c9e476193cec2b553e13e49bb3d0e769984911b08736e28538d27c64224431760a82473b07babbd675ce2303e56ce95e037504cdcc28ef9533889f46ffa137cc94228a46961a58aa567a1&auth_token=b17f3f1f6d558d102c96202d6975b7ed$肥羊
+#EXTINF:-1 tvg-name="第一剧场" tvg-logo="https://gitee.com/buzhenglin2025/tv/raw/master/logo/CCTV第一剧场.png" group-title="央视付费",CCTV第一剧场
+https://live.ottiptv.cc/mcp/dyjc.m3u8?userid=8135866366&sign=19733f9fabd3b3865dd75b8fce9980ef21635d2e9bde6e8a1e6c7ee94f120d276dc34adc35e988e3844220dcff57d915ee5cede7ac73ed2d586e9a7f36ce4dbb2ff645e7eb1cb25593339753&auth_token=b17f3f1f6d558d102c96202d6975b7ed$肥羊
+#EXTINF:-1 tvg-name="女性时尚" tvg-logo="https://gitee.com/buzhenglin2025/tv/raw/master/logo/CCTV女性时尚.png" group-title="央视付费",CCTV女性时尚
+#EXTINF:-1 tvg-name="风云足球" tvg-logo="https://gitee.com/buzhenglin2025/tv/raw/master/logo/CCTV风云足球.png" group-title="央视付费",CCTV风云足球
+#EXTINF:-1 tvg-name="央视台球" tvg-logo="https://gitee.com/buzhenglin2025/tv/raw/master/logo/CCTV央视台球.png" group-title="央视付费",CCTV央视台球
+#EXTINF:-1 tvg-name="高尔夫网球" tvg-logo="https://gitee.com/buzhenglin2025/tv/raw/master/logo/CCTV高尔夫网球.png" group-title="央视付费",CCTV高尔夫网球
+#EXTINF:-1 tvg-name="卫生健康" tvg-logo="https://gitee.com/buzhenglin2025/tv/raw/master/logo/CCTV卫生健康.png" group-title="央视付费",CCTV卫生健康
+#EXTINF:-1 tvg-name="电视指南" tvg-logo="https://gitee.com/buzhenglin2025/tv/raw/master/logo/CCTV电视指南.png" group-title="央视付费",CCTV电视指南
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://gitee.com/buzhenglin2025/tv/raw/master/logo/北京卫视.png" group-title="卫视频道",北京卫视
+http://1.032000.xyz:8848/udp/239.94.0.65:5140$四川电信
+http://go.bkpcp.top/mg/bjws?$BKPCP
+http://110.42.37.69:6688/live/live.php?token=reOPfGMpMD&id=bjws&$郑州电信
+https://live.ottiptv.cc/mcp/beijing.m3u8?userid=8135866366&sign=423bc73e29d60e922c2aa1ac2731ff8847322d119a9c07f1c870adff2447a01d661d9cd45b32ac2c87597644300d308608e3ec2a3ee93a7c74cdc3f2ef1c3dfc48c837c670868c258facccb40f8aaa&auth_token=b17f3f1f6d558d102c96202d6975b7ed$肥羊
+http://aik.ddnsfile.top:65235/rtp/239.21.2.172:5002$ddn
+http://www.gcc125.cn:6888/rtp/239.49.1.33:6000$江苏南京组播
+#EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://gitee.com/buzhenglin2025/tv/raw/master/logo/贵州卫视.png" group-title="卫视频道",贵州卫视
+http://1.032000.xyz:8848/udp/239.93.30.131:5140$四川电信
+http://go.bkpcp.top/mg/gzws?$BKPCP
+http://110.42.37.69:6688/live/live.php?token=reOPfGMpMD&id=gzws&$郑州电信
+https://live.ottiptv.cc/mcp/guizhou.m3u8?userid=8135866366&sign=386725acd270859bc4d3216d1ce7276993ca7a9ce36d350dc7928850425a3caf1f874dba6527b2b1efbeb982e3273debf2e14e6dcee498f24bcb6fbe93b2e91aa5d40ba81b7bcd595f3f6b446d686a&auth_token=b17f3f1f6d558d102c96202d6975b7ed$肥羊
+http://aik.ddnsfile.top:65235/rtp/239.21.1.166:5002$ddn
+http://www.gcc125.cn:6888/rtp/239.49.1.52:6000$江苏南京组播
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://gitee.com/buzhenglin2025/tv/raw/master/logo/东方卫视.png" group-title="卫视频道",东方卫视
+http://1.032000.xyz:8848/udp/239.94.0.64:5140$四川电信
+http://go.bkpcp.top/mg/dfws?$BKPCP
+http://110.42.37.69:6688/live/live.php?token=reOPfGMpMD&id=dfws&$郑州电信
+https://mgtv.ottiptv.cc/mg/651632648.m3u8?userid=8135866366&sign=5996bf84b5a3b0da8cb5e524755718173fb59f8382c2e9cbb1a7278c13c260ec2bb692d79903100930e7b81c866e4c16f3a2dcd3bab6a89601784ec30ff97cf5cf05170d28339e251085ccc033bfee65f7&auth_token=b17f3f1f6d558d102c96202d6975b7ed$肥羊
+http://aik.ddnsfile.top:65235/rtp/239.21.1.111:5002$ddn
+http://www.gcc125.cn:6888/rtp/239.49.8.17:9606$江苏南京组播
+#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://gitee.com/buzhenglin2025/tv/raw/master/logo/天津卫视.png" group-title="卫视频道",天津卫视
+http://1.032000.xyz:8848/udp/239.94.0.68:5140$四川电信
+http://go.bkpcp.top/mg/tjws?$BKPCP
+http://110.42.37.69:6688/live/live.php?token=reOPfGMpMD&id=tjws&$郑州电信
+https://live.ottiptv.cc/mcp/tianjing.m3u8?userid=8135866366&sign=92b51df2594827397216be7ebf6ebfcf130b38bc6c0448a19837c2a2940c65482be921a01ed1ae5232e25a289766693c9dc36e8dbce22ae46dc9a66d31bff327a91793c3199757d36bc91a5a7378e1f3&auth_token=b17f3f1f6d558d102c96202d6975b7ed$肥羊
+http://aik.ddnsfile.top:65235/rtp/239.21.1.165:5002$ddn
+http://www.gcc125.cn:6888/rtp/239.49.1.46:6000$江苏南京组播
+#EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://gitee.com/buzhenglin2025/tv/raw/master/logo/吉林卫视.png" group-title="卫视频道",吉林卫视
+http://1.032000.xyz:8848/udp/239.94.0.91:5140$四川电信
+http://go.bkpcp.top/mg/jlws?$BKPCP
+http://110.42.37.69:6688/live/live.php?token=reOPfGMpMD&id=jlws&$郑州电信
+https://mgtv.ottiptv.cc/mg/947472500.m3u8?userid=8135866366&sign=163a186ef9e238196191577dec3ad9c05635a4dcf461377cd16c65e232c93be41f3ddddb900142006276233ca5ee9acd245989f4ed6a8ae6a9672a87012588e39ad9a5c7ec4abdbb9c7157f91da134b4e8&auth_token=b17f3f1f6d558d102c96202d6975b7ed$肥羊
+http://www.gcc125.cn:6888/rtp/239.49.8.113:8000$江苏南京组播
+#EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://gitee.com/buzhenglin2025/tv/raw/master/logo/陕西卫视.png" group-title="卫视频道",陕西卫视
+http://1.032000.xyz:8848/udp/239.94.0.92:5140$四川电信
+http://go.bkpcp.top/mg/sxws?$BKPCP
+http://110.42.37.69:6688/live/live.php?token=reOPfGMpMD&id=shanxws&$郑州电信
+https://mgtv.ottiptv.cc/mg/738910838.m3u8?userid=8135866366&sign=c3cb0c636262a3eba6b943c300210222b59b81a7b2d0524aca8ffad9654a3f94f502e96fe5aabac3ba335eccffb6fbea4ecd4c21ccb6e09194077a5f1abbf5bf0aa160d1519c71ca6824ca8800d890ddc2&auth_token=b17f3f1f6d558d102c96202d6975b7ed$肥羊
+http://www.gcc125.cn:6888/rtp/239.49.0.233:8000$江苏南京组播
+#EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://gitee.com/buzhenglin2025/tv/raw/master/logo/河北卫视.png" group-title="卫视频道",河北卫视
+http://1.032000.xyz:8848/udp/239.93.30.132:5140$四川电信
+http://go.bkpcp.top/mg/hbws?$BKPCP
+http://110.42.37.69:6688/live/live.php?token=reOPfGMpMD&id=hebws&$郑州电信
+https://live.ottiptv.cc/mcp/hebei.m3u8?userid=8135866366&sign=28590efe11a9e41e18d228d70320085253fdd88e448aeaa6d48b271cf78a88056df138734865219ebc6751676856351d2111ecd7d5babf7d1abc05f3e6f898e08fa7827f770dbcabc6d55a7ae3&auth_token=b17f3f1f6d558d102c96202d6975b7ed$肥羊
+http://aik.ddnsfile.top:65235/rtp/239.21.1.168:5002$ddn
+http://www.gcc125.cn:6888/rtp/239.49.8.114:8000$江苏南京组播
+#EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://gitee.com/buzhenglin2025/tv/raw/master/logo/江西卫视.png" group-title="卫视频道",江西卫视
+http://1.032000.xyz:8848/udp/239.94.0.79:5140$四川电信
+http://go.bkpcp.top/mg/jxws?$BKPCP
+http://110.42.37.69:6688/live/live.php?token=reOPfGMpMD&id=jxws&$郑州电信
+https://mgtv.ottiptv.cc/mg/783847495.m3u8?userid=8135866366&sign=0373986a8412d87e789646646c35b8673cb886f24c130cb7683e5e29545cdce7020e988a27cda264cca6edc82d0f4c70b71a355aeda9c8edc9f8b39ab30b69ad2b2cadbdaec3eba10ac9161e8a178254a9&auth_token=b17f3f1f6d558d102c96202d6975b7ed$肥羊
+http://aik.ddnsfile.top:65235/rtp/239.21.1.167:5002$ddn
+http://www.gcc125.cn:6888/rtp/239.49.8.111:8000$江苏南京组播
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://gitee.com/buzhenglin2025/tv/raw/master/logo/山东卫视.png" group-title="卫视频道",山东卫视
+http://1.032000.xyz:8848/udp/239.93.30.168:5140$四川电信
+http://go.bkpcp.top/mg/sdws?$BKPCP
+http://110.42.37.69:6688/live/live.php?token=reOPfGMpMD&id=sdws&$郑州电信
+https://live.ottiptv.cc/mcp/shandong.m3u8?userid=8135866366&sign=677955c48d561c3be4fdab26f15ea876cfefb24a8b5490dd02578fcb29862d765e0b086083ddb135424209cfdc96f4f8595cde383879853c5659c627243f81683fd9f1c32ff59a1c1aafa27c0dd0782b&auth_token=b17f3f1f6d558d102c96202d6975b7ed$肥羊
+http://aik.ddnsfile.top:65235/rtp/239.21.1.87:5002$ddn
+http://www.gcc125.cn:6888/rtp/239.49.1.37:6000$江苏南京组播
+#EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://gitee.com/buzhenglin2025/tv/raw/master/logo/东南卫视.png" group-title="卫视频道",东南卫视
+http://1.032000.xyz:8848/udp/239.94.0.80:5140$四川电信
+http://go.bkpcp.top/mg/dnws?$BKPCP
+http://110.42.37.69:6688/live/live.php?token=reOPfGMpMD&id=dnws&$郑州电信
+https://mgtv.ottiptv.cc/mg/849116810.m3u8?userid=8135866366&sign=1cf433a9144bfe1b910d046670b0fc3daa632e9e078facc55a630f7a39c91985beaed38da194dfa778e710be4e02496e78ab3d6e08c0ebb8710021adf712c98b2e2e3c686f977795a5b9f4765421a0fa2a&auth_token=b17f3f1f6d558d102c96202d6975b7ed$肥羊
+http://aik.ddnsfile.top:65235/rtp/239.21.1.113:5002$ddn
+http://www.gcc125.cn:6888/rtp/239.49.8.112:8000$江苏南京组播
+#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://gitee.com/buzhenglin2025/tv/raw/master/logo/湖北卫视.png" group-title="卫视频道",湖北卫视
+http://1.032000.xyz:8848/udp/239.93.30.250:5140$四川电信
+http://go.bkpcp.top/mg/hubws?$BKPCP
+http://110.42.37.69:6688/live/live.php?token=reOPfGMpMD&id=hubws&$郑州电信
+https://mgtv.ottiptv.cc/mg/947472496.m3u8?userid=8135866366&sign=9bb63fcc981c5e4e1fdb7c0667d7938f0186f1f6539bee57144b76196d9e462b27bf88cadff73674c9d17a12387de186cd0af0fb6f59d58b83d357807e3794018e823b95e81bbffa7b9483a5b799c5bc18&auth_token=b17f3f1f6d558d102c96202d6975b7ed$肥羊
+http://aik.ddnsfile.top:65235/rtp/239.21.1.163:5002$ddn
+http://www.gcc125.cn:6888/rtp/239.49.1.48:6000$江苏南京组播
+#EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://gitee.com/buzhenglin2025/tv/raw/master/logo/广西卫视.png" group-title="卫视频道",广西卫视
+http://1.032000.xyz:8848/udp/239.94.0.89:5140$四川电信
+http://go.bkpcp.top/mg/gxws?$BKPCP
+http://110.42.37.69:6688/live/live.php?token=reOPfGMpMD&id=gxws&$郑州电信
+https://live.ottiptv.cc/mcp/guangxi.m3u8?userid=8135866366&sign=1f8ad39c615350e5dc62c165eb8f7778199ea7dd4ecb9e4c874a4f6d3cc026369309e0bb55bec1cdbde088148709c006c297b246d05075010e5d9677cb6969ae188dc72cee1ea0732cd07a24b06434&auth_token=b17f3f1f6d558d102c96202d6975b7ed$肥羊
+http://www.gcc125.cn:6888/rtp/239.49.8.10:8000$江苏南京组播
+#EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://gitee.com/buzhenglin2025/tv/raw/master/logo/河南卫视.png" group-title="卫视频道",河南卫视
+http://1.032000.xyz:8848/udp/239.94.0.88:5140$四川电信
+http://go.bkpcp.top/mg/hnws?$BKPCP
+http://110.42.37.69:6688/live/live.php?token=reOPfGMpMD&id=henws&$郑州电信
+https://mgtv.ottiptv.cc/mg/790187291.m3u8?userid=8135866366&sign=13bb64c8c61ef28dfacec495cabeaf053647a426128eb4d229dcb74426d36870db2cab69629bf2481942f8bbe59521055a4151f8597c8c525d50eaacccb8dca56a84916cf50741413f373194c21892ccbb&auth_token=b17f3f1f6d558d102c96202d6975b7ed$肥羊
+http://aik.ddnsfile.top:65235/rtp/239.21.2.37:5002$ddn
+http://www.gcc125.cn:6888/rtp/239.49.8.29:8000$江苏南京组播
+http://1.94.31.214/php/hntv.php?id=hnws&$官网
+http://lxajh.top/tv/hn.php?id=hnws
+http://1.94.31.214/php/hntv.php?id=hnws&$官网
+#EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://gitee.com/buzhenglin2025/tv/raw/master/logo/重庆卫视.png" group-title="卫视频道",重庆卫视
+http://1.032000.xyz:8848/udp/239.94.0.82:5140$四川电信
+http://go.bkpcp.top/mg/cqws?$BKPCP
+http://110.42.37.69:6688/live/live.php?token=reOPfGMpMD&id=cqws&$郑州电信
+https://live.ottiptv.cc/mcp/chongqing.m3u8?userid=8135866366&sign=bc830eaddfad532a49b46928f0038bbff4b90a40c6c7ca4c96d9c408110d9032cfd2500c8ed91ce79ed5004664f6d2e0dca0788e0e522737249544fb2833e82b931607048d8a67540d44f574a7b89db102&auth_token=b17f3f1f6d558d102c96202d6975b7ed$肥羊
+http://aik.ddnsfile.top:65235/rtp/239.21.1.233:5002$ddn
+http://www.gcc125.cn:6888/rtp/239.49.1.42:6000$江苏南京组播
+#EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://gitee.com/buzhenglin2025/tv/raw/master/logo/四川卫视.png" group-title="卫视频道",四川卫视
+http://1.032000.xyz:8848/udp/239.94.0.59:5140$四川电信
+http://go.bkpcp.top/mg/scws?$BKPCP
+http://110.42.37.69:6688/live/live.php?token=reOPfGMpMD&id=scws&$郑州电信
+https://live.ottiptv.cc/mcp/sichuan.m3u8?userid=8135866366&sign=a548895ec92da47349ef0be3aef42e91503bb1851500cf148501e50835603455f3792847debade138615fcfa92a32ce68d1515d478a43c99b894e5f7abb6af6ff7291d365ef65d2b268c61911c7742&auth_token=b17f3f1f6d558d102c96202d6975b7ed$肥羊
+http://aik.ddnsfile.top:65235/rtp/239.21.2.15:5002$ddn
+http://www.gcc125.cn:6888/rtp/239.49.8.110:8000$江苏南京组播
+#EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://gitee.com/buzhenglin2025/tv/raw/master/logo/云南卫视.png" group-title="卫视频道",云南卫视
+http://1.032000.xyz:8848/udp/239.94.0.90:5140$四川电信
+http://go.bkpcp.top/mg/ynws?$BKPCP
+http://110.42.37.69:6688/live/live.php?token=reOPfGMpMD&id=ynws&$郑州电信
+https://live.ottiptv.cc/mcp/yunnan.m3u8?userid=8135866366&sign=a556e063a535aee3e348857932db6261d168e1aaff161e4962ca49213818b605d9414399d420a9100c6d31f98d201bdf14e46555e02ab13a0bcdefce2a8b52d80fb085e990895063da117fba7511&auth_token=b17f3f1f6d558d102c96202d6975b7ed$肥羊
+http://www.gcc125.cn:6888/rtp/239.49.0.177:8000$江苏南京组播
+#EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://gitee.com/buzhenglin2025/tv/raw/master/logo/山西卫视.png" group-title="卫视频道",山西卫视
+http://go.bkpcp.top/mg/sxiws?$BKPCP
+http://110.42.37.69:6688/live/live.php?token=reOPfGMpMD&id=sxws&$郑州电信
+https://live.ottiptv.cc/mcp/shanxi.m3u8?userid=8135866366&sign=fd30a332ce2d1fd111503825947d760c2e8fffb17795cc742ddcdcf82edb4843a6245ba9632fec09736772153633c6abb132c42f45911a7355decdc15f83d4468537be77562253d06effaa227749&auth_token=b17f3f1f6d558d102c96202d6975b7ed$肥羊
+http://www.gcc125.cn:6888/rtp/239.49.1.51:6000$江苏南京组播
+http://1.70.32.99:8082/udp/239.1.1.1:8001
+#EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://gitee.com/buzhenglin2025/tv/raw/master/logo/甘肃卫视.png" group-title="卫视频道",甘肃卫视
+http://1.032000.xyz:8848/udp/239.93.30.81:5140$四川电信
+http://go.bkpcp.top/mg/gsws?$BKPCP
+http://110.42.37.69:6688/live/live.php?token=reOPfGMpMD&id=gsws&$郑州电信
+https://live.ottiptv.cc/mcp/gansu.m3u8?userid=8135866366&sign=7bc0217a02d6731b91b2643693880c7ba20ba628d9715a65b8bad96d53be95b7db61d1ef71c229edfe16f7364aedda6cf39567b7211f6aa0ac7621c6ec2161a58f7bbe7036c8e853fbaf0f792c&auth_token=b17f3f1f6d558d102c96202d6975b7ed$肥羊
+http://aik.ddnsfile.top:65235/rtp/239.21.2.19:5002$ddn
+http://www.gcc125.cn:6888/rtp/239.49.0.250:8000$江苏南京组播
+#EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://gitee.com/buzhenglin2025/tv/raw/master/logo/青海卫视.png" group-title="卫视频道",青海卫视
+http://go.bkpcp.top/mg/qhws?$BKPCP
+http://110.42.37.69:6688/live/live.php?token=reOPfGMpMD&id=qhws&$郑州电信
+https://mgtv.ottiptv.cc/mg/947472506.m3u8?userid=8135866366&sign=fff5128629e81476cdf6c93882e3b043f218f6e02d07c774fa87d71f5b784880c80599fc815d62fb7a89468e32a8ca51b692528b03a0f672aca399c42bad1e6fddc7fecc0210de9b6b39e0b8a54288cd78&auth_token=b17f3f1f6d558d102c96202d6975b7ed$肥羊
+http://www.gcc125.cn:6888/rtp/239.49.0.81:8000$江苏南京组播
+#EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://gitee.com/buzhenglin2025/tv/raw/master/logo/宁夏卫视.png" group-title="卫视频道",宁夏卫视
+http://go.bkpcp.top/mg/nxws?$BKPCP
+http://110.42.37.69:6688/live/live.php?token=reOPfGMpMD&id=nxws&$郑州电信
+https://live.ottiptv.cc/mcp/ningxia.m3u8?userid=8135866366&sign=846e34406b28f52c3cfe332d42531389e21404cdc8c4a3cecd7643feacd576b1e6fc428854f47717acc0683ffc381a687c8667bcf8337995b02da550badf4fd8686832593717ce7598ac96764a97f4&auth_token=b17f3f1f6d558d102c96202d6975b7ed$肥羊
+http://www.gcc125.cn:6888/rtp/239.49.0.171:8000$江苏南京组播
+#EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://gitee.com/buzhenglin2025/tv/raw/master/logo/新疆卫视.png" group-title="卫视频道",新疆卫视
+http://1.032000.xyz:8848/udp/239.94.0.98:5140$四川电信
+http://go.bkpcp.top/mg/xjws?$BKPCP
+http://110.42.37.69:6688/live/live.php?token=reOPfGMpMD&id=xjws&$郑州电信
+https://live.ottiptv.cc/mcp/xinjiang.m3u8?userid=8135866366&sign=f6353d7e997f0df7d371fe40654020512bbb47ad20b051704e0e18cfcd22d823d7143985d00861f2ceb10e87c1cd5e273ab6d3780ca6f9aa31ee3f63697e3199ba11564f24a6f51d41505ffcc2fa3036&auth_token=b17f3f1f6d558d102c96202d6975b7ed$肥羊
+http://www.gcc125.cn:6888/rtp/239.49.0.178:8000$江苏南京组播
+http://58.17.48.228:808/hls/59/index.m3u8
+#EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://gitee.com/buzhenglin2025/tv/raw/master/logo/西藏卫视.png" group-title="卫视频道",西藏卫视
+http://1.032000.xyz:8848/udp/239.94.0.97:5140$四川电信
+http://go.bkpcp.top/mg/xzws?$BKPCP
+http://110.42.37.69:6688/live/live.php?token=reOPfGMpMD&id=xzws&$郑州电信
+https://live.ottiptv.cc/mcp/xizang.m3u8?userid=8135866366&sign=453f415bb1688c311f767a0f386de7ac84ca9e147da8ff4b7674487f7a2f35f35e64474d8ac1cd80130e098121297368320350523066b500197ff023032a52c73cd0b1613f0052c177038308f78a&auth_token=b17f3f1f6d558d102c96202d6975b7ed$肥羊
+http://www.gcc125.cn:6888/rtp/239.49.0.245:8000$江苏南京组播
+#EXTINF:-1 tvg-name="厦门卫视" tvg-logo="https://gitee.com/buzhenglin2025/tv/raw/master/logo/厦门卫视.png" group-title="卫视频道",厦门卫视
+http://www.gcc125.cn:6888/rtp/239.49.0.230:8000$江苏南京组播
+http://124.128.73.58:9901/tsfile/live/0129_1.m3u8
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://gitee.com/buzhenglin2025/tv/raw/master/logo/广东卫视.png" group-title="卫视频道",广东卫视
+http://1.032000.xyz:8848/udp/239.93.30.181:5140$四川电信
+http://go.bkpcp.top/mg/gdws?$BKPCP
+http://110.42.37.69:6688/live/live.php?token=reOPfGMpMD&id=gdws&$郑州电信
+https://mgtv.ottiptv.cc/mg/608831231.m3u8?userid=8135866366&sign=feecf99459fd81473ddb3f5326d84471140cdd1a2c9dbf750386769be8375c979d79bba838ce85d9995b5eab428c60776a160667a4783003b7b7b746e9177345fc42032e346fbb1dae38c29166a56d07de&auth_token=b17f3f1f6d558d102c96202d6975b7ed$肥羊
+http://aik.ddnsfile.top:65235/rtp/239.21.1.92:5002$ddn
+http://www.gcc125.cn:6888/rtp/239.49.1.39:6000$江苏南京组播
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://gitee.com/buzhenglin2025/tv/raw/master/logo/江苏卫视.png" group-title="卫视频道",江苏卫视
+http://1.032000.xyz:8848/udp/239.94.0.62:5140$四川电信
+http://go.bkpcp.top/mg/jsws?$BKPCP
+http://110.42.37.69:6688/live/live.php?token=reOPfGMpMD&id=jsws&$郑州电信
+https://mgtv.ottiptv.cc/mg/623899368.m3u8?userid=8135866366&sign=a791feb1ce1d4d5dd5e82f8232d89bdd2638cb2f3c3becceaf9cd0b5caea897f5329d6110135f817cba1cc90dae66f604c767cd146b1c0f80dcf1aeaec941c959d50da3e50407892792b6cf420d1011f94&auth_token=b17f3f1f6d558d102c96202d6975b7ed$肥羊
+http://aik.ddnsfile.top:65235/rtp/239.21.1.89:5002$ddn
+http://www.gcc125.cn:6888/rtp/239.49.1.16:6000$江苏南京组播
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://gitee.com/buzhenglin2025/tv/raw/master/logo/浙江卫视.png" group-title="卫视频道",浙江卫视
+http://1.032000.xyz:8848/udp/239.94.0.63:5140$四川电信
+http://go.bkpcp.top/mg/zjws?$BKPCP
+http://110.42.37.69:6688/live/live.php?token=reOPfGMpMD&id=zjws&$郑州电信
+https://live.ottiptv.cc/mcp/zhejiang.m3u8?userid=8135866366&sign=507f2c2c0e465057bf281226cf6cca0f623a3fb994177ea0ae97bc15e256e64994bc0ee94c6950f4d77fcd01886efae5c3e11613b4179824c9eab0c2d5be8302e50be07add02bfda2d3f098d077198b6&auth_token=b17f3f1f6d558d102c96202d6975b7ed$肥羊
+http://aik.ddnsfile.top:65235/rtp/239.21.1.90:5002$ddn
+http://www.gcc125.cn:6888/rtp/239.49.1.34:6000$江苏南京组播
+http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8$官网静态
+http://27.184.64.191:58888/rtp/239.254.200.53:8036$河北电信
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://gitee.com/buzhenglin2025/tv/raw/master/logo/深圳卫视.png" group-title="卫视频道",深圳卫视
+http://1.032000.xyz:8848/udp/239.93.30.182:5140$四川电信
+http://go.bkpcp.top/mg/szws?$BKPCP
+http://110.42.37.69:6688/live/live.php?token=reOPfGMpMD&id=szws&$郑州电信
+https://live.ottiptv.cc/mcp/shenzheng.m3u8?userid=8135866366&sign=196989acdc09c6e5fa5b3967b3695a19cadf1171237b61b3805d0c05f15e46d14c22e13b4b67f6d22efcbe5a7964ac2068c531c60008cdaef6f69436e68f82bebcdd04e7d3bf861cd59cad05e517718b00&auth_token=b17f3f1f6d558d102c96202d6975b7ed$肥羊
+http://aik.ddnsfile.top:65235/rtp/239.21.1.93:5002$ddn
+http://www.gcc125.cn:6888/rtp/239.49.1.59:6000$江苏南京组播
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://gitee.com/buzhenglin2025/tv/raw/master/logo/湖南卫视.png" group-title="卫视频道",湖南卫视
+http://1.032000.xyz:8848/udp/239.93.30.88:5140$四川电信
+http://go.bkpcp.top/mg/hunws?$BKPCP
+http://110.42.37.69:6688/live/live.php?token=reOPfGMpMD&id=hunws&$郑州电信
+https://live.ottiptv.cc/mcp/hunan.m3u8?userid=8135866366&sign=1c1dea31a16d5100cd0ba3d5fe66ea0335662105c213573b43a266615ef9baa874e3bd6b8231fc48f3b2fd5de71cff743ca1e0322b5897e82081e673694e35592300804842dfb1132c1fa1c4b2&auth_token=b17f3f1f6d558d102c96202d6975b7ed$肥羊
+http://aik.ddnsfile.top:65235/rtp/239.21.1.158:5002$ddn
+http://www.gcc125.cn:6888/rtp/239.49.1.38:6000$江苏南京组播
+#EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://gitee.com/buzhenglin2025/tv/raw/master/logo/海南卫视.png" group-title="卫视频道",海南卫视
+http://go.bkpcp.top/mg/hinws?$BKPCP
+http://110.42.37.69:6688/live/live.php?token=reOPfGMpMD&id=hainws&$郑州电信
+https://mgtv.ottiptv.cc/mg/947472502.m3u8?userid=8135866366&sign=18e0c8f8abaa4db944ad1211897497a975df0c80b0716e3a0e7a639421d40ade14f6dbf7256c28f48ad1559b3a3acff654351028450aaae0987728c30339ecc7eee8f71e5258bad9fac9541328a3971133&auth_token=b17f3f1f6d558d102c96202d6975b7ed$肥羊
+http://www.gcc125.cn:6888/rtp/239.49.8.83:8000$江苏南京组播
+#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://gitee.com/buzhenglin2025/tv/raw/master/logo/辽宁卫视.png" group-title="卫视频道",辽宁卫视
+http://1.032000.xyz:8848/udp/239.94.0.101:5140$四川电信
+http://go.bkpcp.top/mg/lnws?$BKPCP
+http://110.42.37.69:6688/live/live.php?token=reOPfGMpMD&id=lnws&$郑州电信
+https://mgtv.ottiptv.cc/mg/630291707.m3u8?userid=8135866366&sign=4efc8e1d8a558f4ad28703c421a6011e8559d88b82bbd33c62c4c3c85598c1a99d0146c9e72742543e3db98868696d356672751732058ba9b150b54554d45e88916ccff22b9b06f0275db003fb98b6d01b&auth_token=b17f3f1f6d558d102c96202d6975b7ed$肥羊
+http://aik.ddnsfile.top:65235/rtp/239.21.1.164:5002$ddn
+http://www.gcc125.cn:6888/rtp/239.49.8.48:8000$江苏南京组播
+#EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://gitee.com/buzhenglin2025/tv/raw/master/logo/安徽卫视.png" group-title="卫视频道",安徽卫视
+http://1.032000.xyz:8848/udp/239.94.0.85:5140$四川电信
+http://go.bkpcp.top/mg/ahws?$BKPCP
+http://110.42.37.69:6688/live/live.php?token=reOPfGMpMD&id=ahws&$郑州电信
+https://live.ottiptv.cc/mcp/anhui.m3u8?userid=8135866366&sign=5f470b167308e6ae740761fa70d961aa27269c81049df3c3c3e78d61925c0cd5719d72703dc9e8aa48dd7584235c7c5a8e11bf7130bfd2c6793e16d4f860e974c229b95b4dd87275c3c0ee9881&auth_token=b17f3f1f6d558d102c96202d6975b7ed$肥羊
+http://aik.ddnsfile.top:65235/rtp/239.21.1.159:5002$ddn
+http://www.gcc125.cn:6888/rtp/239.49.8.80:8000$江苏南京组播
+#EXTINF:-1 tvg-name="兵团卫视" tvg-logo="https://gitee.com/buzhenglin2025/tv/raw/master/logo/兵团卫视.png" group-title="卫视频道",兵团卫视
+http://1.032000.xyz:8848/udp/239.94.0.102:5140$四川电信
+http://go.bkpcp.top/mg/btws?$BKPCP
+http://110.42.37.69:6688/live/live.php?token=reOPfGMpMD&id=btws&$郑州电信
+https://mgtv.ottiptv.cc/mg/956923145.m3u8?userid=8135866366&sign=f248cbfbbbe10ddd9c0243cd5d32908335926beb94ec1434c8f90b927d2a3a003330f0ac1ec49f76c1cad4d8a240a4214913366b65b85f85fbdb1c50575d50622ffa0fdfafad1bada1484159f8aa2eea6c&auth_token=b17f3f1f6d558d102c96202d6975b7ed$肥羊
+https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8?$MGTV
+http://www.gcc125.cn:6888/rtp/239.49.0.240:8000$江苏南京组播
+#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://gitee.com/buzhenglin2025/tv/raw/master/logo/黑龙江卫视.png" group-title="卫视频道",黑龙江卫视
+http://1.032000.xyz:8848/udp/239.94.0.81:5140$四川电信
+http://110.42.37.69:6688/live/live.php?token=reOPfGMpMD&id=hljws&$郑州电信
+https://live.ottiptv.cc/mcp/heilongjiang.m3u8?userid=8135866366&sign=a74127105c4065044a7352deeeb91e1f6add1d503aa4f8b5230acd709bc1d13e12e7dd3533e3d288a76a859e1b05ec0afc6a34369e2a559dfb8547928b139eb602f45826231744f2b53f16a93baa752dcc6a8e22&auth_token=b17f3f1f6d558d102c96202d6975b7ed$肥羊
+http://aik.ddnsfile.top:65235/rtp/239.21.1.91:5002$ddn
+http://www.gcc125.cn:6888/rtp/239.49.1.50:6000$江苏南京组播
+#EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://gitee.com/buzhenglin2025/tv/raw/master/logo/内蒙古卫视.png" group-title="卫视频道",内蒙古卫视
+http://go.bkpcp.top/mg/nmgws?$BKPCP
+http://110.42.37.69:6688/live/live.php?token=reOPfGMpMD&id=nmgws&$郑州电信
+https://live.ottiptv.cc/mcp/neimenggu.m3u8?userid=8135866366&sign=548e4d9c4ef548e9ddc32637c368bfe19a406df9e4706c8f3dda28b593661b553a7871c72c62ab3633c084bcb7763b2cbb8793c34e2256eb35c06f940bb10eeab6e7bb74fd85b62cdc0a29f1370784b955&auth_token=b17f3f1f6d558d102c96202d6975b7ed$肥羊
+http://www.gcc125.cn:6888/rtp/239.49.0.180:8000$江苏南京组播
+#EXTINF:-1 tvg-name="三沙卫视" tvg-logo="https://gitee.com/buzhenglin2025/tv/raw/master/logo/三沙卫视.png" group-title="卫视频道",三沙卫视
+http://110.42.37.69:6688/live/live.php?token=reOPfGMpMD&id=ssws&$郑州电信
+#EXTINF:-1 tvg-name="天元围棋" tvg-logo="https://gitee.com/buzhenglin2025/tv/raw/master/logo/天元围棋.png" group-title="贵州地方",天元围棋
+http://1.032000.xyz:8848/udp/239.94.1.152:5140$四川电信
+#EXTINF:-1 tvg-name="贵州公共" tvg-logo="https://gitee.com/buzhenglin2025/tv/raw/master/logo/贵州公共频道.png" group-title="贵州地方",贵州公共
+http://pili-publish.live.v2gogo.com/v2gogo-live/95c81a103d724c4fb01d25a7e148a15d.m3u8
+#EXTINF:-1 tvg-name="贵州影视文艺" tvg-logo="https://gitee.com/buzhenglin2025/tv/raw/master/logo/贵州文艺频道.png" group-title="贵州地方",贵州影视
+#EXTINF:-1 tvg-name="贵州大众生活" tvg-logo="https://gitee.com/buzhenglin2025/tv/raw/master/logo/贵州大众生活频道.png" group-title="贵州地方",贵州大众
+#EXTINF:-1 tvg-name="贵州乡村生态" tvg-logo="https://gitee.com/buzhenglin2025/tv/raw/master/logo/贵州旅游频道.png" group-title="贵州地方",贵州生态
+#EXTINF:-1 tvg-name="贵州科教健康" tvg-logo="https://gitee.com/buzhenglin2025/tv/raw/master/logo/贵州科教健康频道.png" group-title="贵州地方",贵州科教
+#EXTINF:-1 tvg-name="贵州经济" tvg-logo="https://gitee.com/buzhenglin2025/tv/raw/master/logo/贵州经济频道.png" group-title="贵州地方",贵州经济
+#EXTINF:-1 tvg-name="贵阳综合" tvg-logo="https://gitee.com/buzhenglin2025/tv/raw/master/logo/贵阳.png" group-title="贵州地方",贵阳综合
+#EXTINF:-1 tvg-name="贵阳生活" tvg-logo="https://gitee.com/buzhenglin2025/tv/raw/master/logo/贵阳.png" group-title="贵州地方",贵阳生活
+#EXTINF:-1 tvg-name="贵阳法制" tvg-logo="https://gitee.com/buzhenglin2025/tv/raw/master/logo/贵阳.png" group-title="贵州地方",贵阳法制
+#EXTINF:-1 tvg-name="遵义都市" tvg-logo="https://gitee.com/buzhenglin2025/tv/raw/master/logo/遵义.png" group-title="贵州地方",遵义都市
+#EXTINF:-1 tvg-name="遵义公共" tvg-logo="https://gitee.com/buzhenglin2025/tv/raw/master/logo/遵义.png" group-title="贵州地方",遵义公共
+#EXTINF:-1 tvg-name="遵义综合" tvg-logo="https://gitee.com/buzhenglin2025/tv/raw/master/logo/遵义.png" group-title="贵州地方",遵义综合
+#EXTINF:-1 tvg-name="安顺新闻" tvg-logo="https://gitee.com/buzhenglin2025/tv/raw/master/logo/安顺.png" group-title="贵州地方",安顺综合
+http://hplayer1.juyun.tv/camera/154379194.m3u8
+#EXTINF:-1 tvg-name="安顺公共" tvg-logo="https://gitee.com/buzhenglin2025/tv/raw/master/logo/安顺.png" group-title="贵州地方",安顺公共
+http://hplayer1.juyun.tv/camera/154526164.m3u8
+#EXTINF:-1 tvg-name="六盘水1" tvg-logo="https://gitee.com/buzhenglin2025/tv/raw/master/logo/六盘水.png" group-title="贵州地方",六盘水1
+https://tvfile.lpsrtv.com/nmip-media/channellive/channel110181/playlist.m3u8
+#EXTINF:-1 tvg-name="六盘水2" tvg-logo="https://gitee.com/buzhenglin2025/tv/raw/master/logo/六盘水.png" group-title="贵州地方",六盘水2
+https://tvfile.lpsrtv.com/nmip-media/channellive/channel110983/playlist.m3u8
+#EXTINF:-1 tvg-name="黔南1" tvg-logo="https://gitee.com/buzhenglin2025/tv/raw/master/logo/黔南.png" group-title="贵州地方",黔南1
+http://tvfile.qntv.net/nmip-media/channellive/channel108689/playlist.m3u8
+rtmp://tv.qntv.net/channellive/ch1
+#EXTINF:-1 tvg-name="黔南2" tvg-logo="https://gitee.com/buzhenglin2025/tv/raw/master/logo/黔南.png" group-title="贵州地方",黔南2
+http://tvfile.qntv.net/nmip-media/channellive/channel109066/playlist.m3u8
+rtmp://tv.qntv.net/channellive/ch2
+#EXTINF:-1 tvg-name="黔东南综合" tvg-logo="https://gitee.com/buzhenglin2025/tv/raw/master/logo/黔东南.png" group-title="贵州地方",黔东南
+#EXTINF:-1 tvg-name="黔西南综合" tvg-logo="https://gitee.com/buzhenglin2025/tv/raw/master/logo/黔西南.png" group-title="贵州地方",黔西南综合
+#EXTINF:-1 tvg-name="黔西南公共" tvg-logo="https://gitee.com/buzhenglin2025/tv/raw/master/logo/黔西南.png" group-title="贵州地方",黔西南公共
+#EXTINF:-1 tvg-name="铜仁1" tvg-logo="https://gitee.com/buzhenglin2025/tv/raw/master/logo/铜仁.png" group-title="贵州地方",铜仁1
+#EXTINF:-1 tvg-name="铜仁2" tvg-logo="https://gitee.com/buzhenglin2025/tv/raw/master/logo/铜仁.png" group-title="贵州地方",铜仁2
+#EXTINF:-1 tvg-name="瓮安" tvg-logo="https://gitee.com/buzhenglin2025/tv/raw/master/logo/瓮安.png" group-title="贵州地方",瓮安
+#EXTINF:-1 tvg-name="毕节1" tvg-logo="https://gitee.com/buzhenglin2025/tv/raw/master/logo/毕节.png" group-title="贵州地方",毕节1
+#EXTINF:-1 tvg-name="毕节2" tvg-logo="https://gitee.com/buzhenglin2025/tv/raw/master/logo/毕节.png" group-title="贵州地方",毕节2
+#EXTINF:-1 tvg-name="思南" tvg-logo="https://gitee.com/buzhenglin2025/tv/raw/master/logo/思南.png" group-title="贵州地方",思南
+#EXTINF:-1 tvg-name="凯里电视" tvg-logo="https://gitee.com/buzhenglin2025/tv/raw/master/logo/正林专用.png" group-title="贵州地方",凯里
+#EXTINF:-1 tvg-name="雷山综合" tvg-logo="https://gitee.com/buzhenglin2025/tv/raw/master/logo/雷山.png" group-title="贵州地方",雷山综合
+#EXTINF:-1 tvg-name="七星关电视台" tvg-logo="https://gitee.com/buzhenglin2025/tv/raw/master/logo/七星关.png" group-title="贵州地方",七星关电视台
+https://live.us.sinaimg.cn/001LSU8Gjx07KMe2Cb6L070d010007wB0k01.m3u8
+https://p8.vzan.com:443/slowlive/147077707554082780/live.m3u8
+#EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://gitee.com/buzhenglin2025/tv/raw/master/logo/CHC影迷电影.png" group-title="影视频道",CHC影迷电影
+http://1.032000.xyz:8848/udp/239.94.1.174:5140$四川电信
+https://mgtv.ottiptv.cc/mg/952383261.m3u8?userid=8135866366&sign=3cd44fe81b398d3da565735c9abf8226722e4fd46a2a5e38ad5122828d20ad722b1c97db5deb79c549217bc63c27e187968e675a74c5334d07aec6707b9a8beec56721530137619ee4b05b2b9572134763&auth_token=b17f3f1f6d558d102c96202d6975b7ed$肥羊
+#EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://gitee.com/buzhenglin2025/tv/raw/master/logo/CHC动作电影.png" group-title="影视频道",CHC动作电影
+http://1.032000.xyz:8848/udp/239.94.1.175:5140$四川电信
+https://mgtv.ottiptv.cc/mg/644368714.m3u8?userid=8135866366&sign=abe8282df7c788474ff0e4909301ec50c42b8a6344bc68df84f5db404ad3bd8d7723fd892c2f09bd9df9b83174f52a146cc94e0aadd0ecae88871b01b48f2fb776b14a5e6d77554671870ee276558f3e5a&auth_token=b17f3f1f6d558d102c96202d6975b7ed$肥羊
+#EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://gitee.com/buzhenglin2025/tv/raw/master/logo/CHC家庭影院.png" group-title="影视频道",CHC家庭影院
+http://1.032000.xyz:8848/udp/239.94.1.173:5140$四川电信
+https://shyd.695847.xyz/cms001/ch00000090990000001570/index.m3u8?Ace
+https://mgtv.ottiptv.cc/mg/644368373.m3u8?userid=8135866366&sign=c205d55e601d69346c4f5bff4006b77f424113a7013b1ef4f5bc5a4d0c6e916efdd375ac7c9141379b4cab45aa2aaf488a91f26eb3b0c6064f10ee5beaf06c35aaf0d211a0e2f1f03993dfac22a9f01de3&auth_token=b17f3f1f6d558d102c96202d6975b7ed$肥羊
+#EXTINF:-1 tvg-name="黑莓电影" tvg-logo="https://gitee.com/buzhenglin2025/tv/raw/master/logo/黑莓电影.png" group-title="影视频道",黑莓电影
+#EXTINF:-1 tvg-name="周星驰" tvg-logo="https://gitee.com/buzhenglin2025/tv/raw/master/logo/轮播-周星驰.png" group-title="影视频道",周星驰电影
+http://222.186.39.38:8000/028749/index.m3u8
+https://live.ottiptv.cc/huya/11342412
+http://cfss.cc/cdn/hy/11336587.m3u8?$cfss
+#EXTINF:-1 tvg-name="林正英" tvg-logo="https://gitee.com/buzhenglin2025/tv/raw/master/logo/轮播-林正英.png" group-title="影视频道",林正英电影
+https://yylunbo.ottiptv.cc/yy/1351505899
+https://yylunbo.ottiptv.cc/yy/1354932444
+#EXTINF:-1 tvg-name="东方影视" tvg-logo="https://gitee.com/buzhenglin2025/tv/raw/master/logo/东方影视.png" group-title="影视频道",东方影视
+https://mgtv.ottiptv.cc/mg/617290047.m3u8?userid=8135866366&sign=9769d3861e76d44f19bc4784554114b30ef48719b61a44a96c743ff3048a0cfc176e8c4b8d680a82686417671aaecbe8accc02919e9b557f9a98652dce6b130bf998d2506449c5494bdfabe824c8bd4e4e&auth_token=b17f3f1f6d558d102c96202d6975b7ed$肥羊
+#EXTINF:-1 tvg-name="重温经典" tvg-logo="https://gitee.com/buzhenglin2025/tv/raw/master/logo/重温经典.png" group-title="影视频道",重温经典
+http://8.138.7.223/tv/cwjd.php
+http://iptv.4666888.xyz/iptv2A.php?id=重温经典&$风云直播
+https://other.ottiptv.cc/cwjd.m3u8$肥羊
+#EXTINF:-1 tvg-name="滇西小哥" tvg-logo="https://gitee.com/buzhenglin2025/tv/raw/master/logo/滇西小哥.png" group-title="影视频道",滇西小哥
+http://121.36.224.76:35455/douyu/3243427?$douyu
+#EXTINF:-1 tvg-name="都市剧场" tvg-logo="https://gitee.com/buzhenglin2025/tv/raw/master/logo/city都市剧场.png" group-title="影视频道",都市剧场
+http://1.032000.xyz:8848/udp/239.94.1.133:5140$四川电信
+http://www.gcc125.cn:6888/rtp/239.49.0.99:8000$江苏南京组播
+#EXTINF:-1 tvg-name="欢笑剧场" tvg-logo="https://gitee.com/buzhenglin2025/tv/raw/master/logo/欢笑剧场.png" group-title="影视频道",欢笑剧场
+http://1.032000.xyz:8848/udp/239.94.1.176:5140$四川电信
+#EXTINF:-1 tvg-name="美亚电影" tvg-logo="https://gitee.com/buzhenglin2025/tv/raw/master/logo/美亚电影台.png" group-title="影视频道",美亚电影台
+#EXTINF:-1 tvg-name="龙华电影" tvg-logo="https://gitee.com/buzhenglin2025/tv/raw/master/logo/龙华电影.png" group-title="影视频道",龙华电影
+#EXTINF:-1 tvg-name="龙华洋片" tvg-logo="https://gitee.com/buzhenglin2025/tv/raw/master/logo/龙华洋片.png" group-title="影视频道",龙华洋片
+#EXTINF:-1 tvg-name="东森电影" tvg-logo="https://gitee.com/buzhenglin2025/tv/raw/master/logo/东森电影.png" group-title="影视频道",东森电影
+#EXTINF:-1 tvg-name="东森洋片" tvg-logo="https://gitee.com/buzhenglin2025/tv/raw/master/logo/东森洋片.png" group-title="影视频道",东森洋片
+#EXTINF:-1 tvg-name="好莱坞电影" tvg-logo="https://gitee.com/buzhenglin2025/tv/raw/master/logo/好莱坞电影.png" group-title="影视频道",好莱坞电影
+#EXTINF:-1 tvg-name="POPC" tvg-logo="https://gitee.com/buzhenglin2025/tv/raw/master/logo/popc.png" group-title="影视频道",PopC电影
+https://011.judy.edu.kg/stream/tvb/popc/master.m3u8?u=judy&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+#EXTINF:-1 tvg-name="纬来电影" tvg-logo="https://gitee.com/buzhenglin2025/tv/raw/master/logo/纬来电影.png" group-title="影视频道",纬来电影
+#EXTINF:-1 tvg-name="KIX" tvg-logo="https://gitee.com/buzhenglin2025/tv/raw/master/logo/KIX.png" group-title="影视频道",KIX
+#EXTINF:-1 tvg-name="AXN" tvg-logo="https://gitee.com/buzhenglin2025/tv/raw/master/logo/AXN.png" group-title="影视频道",AXN
+#EXTINF:-1 tvg-name="Thrill" tvg-logo="https://gitee.com/buzhenglin2025/tv/raw/master/logo/Thrill.png" group-title="影视频道",Thrill
+#EXTINF:-1 tvg-name="ROCK Action" tvg-logo="https://gitee.com/buzhenglin2025/tv/raw/master/logo/rock.png" group-title="影视频道",ROCK Action
+https://011.judy.edu.kg/stream/tvb/rockaction/master.m3u8?u=judy&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+#EXTINF:-1 tvg-name="HBO" tvg-logo="https://gitee.com/buzhenglin2025/tv/raw/master/logo/HBO.png" group-title="影视频道",HBO
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://gitee.com/buzhenglin2025/tv/raw/master/logo/凤凰中文.png" group-title="港台专区",凤凰卫视中文台
+http://b.tvbox6.icu/tv/hk/fh.php?id=1&$TVBOX
+https://011.judy.edu.kg/stream/tvb/null-4/master.m3u8?u=judy&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+http://iptv.4666888.xyz/iptv2A.php?id=凤凰中文&$风云直播
+http://A/ku9/js/fhshow.js?id=fhzw$凤凰秀JS
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://gitee.com/buzhenglin2025/tv/raw/master/logo/凤凰资讯.png" group-title="港台专区",凤凰卫视资讯台
+http://b.tvbox6.icu/tv/hk/fh.php?id=2&$TVBOX
+https://011.judy.edu.kg/stream/tvb/null-3/master.m3u8?u=judy&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+http://iptv.4666888.xyz/iptv2A.php?id=凤凰资讯&$风云直播
+http://A/ku9/js/fhshow.js?id=fhzx$凤凰秀JS
+#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://gitee.com/buzhenglin2025/tv/raw/master/logo/凤凰香港.png" group-title="港台专区",凤凰卫视香港台
+http://b.tvbox6.icu/tv/hk/fh.php?id=3&$TVBOX
+https://011.judy.edu.kg/stream/tvb/null-2/master.m3u8?u=judy&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+http://iptv.4666888.xyz/iptv2A.php?id=凤凰香港&$风云直播
+http://A/ku9/js/fhshow.js?id=fhhk$凤凰秀JS
+#EXTINF:-1 tvg-name="香港卫视" tvg-logo="https://gitee.com/buzhenglin2025/tv/raw/master/logo/香港卫视.png" group-title="港台专区",香港卫视
+http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+#EXTINF:-1 tvg-name="中天新闻台" tvg-logo="https://gitee.com/buzhenglin2025/tv/raw/master/logo/中天新闻.png" group-title="港台专区",中天新闻台
+http://iptv.4666888.xyz/iptv2A.php?id=中天新闻&$风云直播
+http://tlive24.uk/livehttpplay?channel_id=20163
+#EXTINF:-1 tvg-name="TVBS新闻台" tvg-logo="https://gitee.com/buzhenglin2025/tv/raw/master/logo/TVBS新闻.png" group-title="港台专区",TVBS新闻台
+#EXTINF:-1 tvg-name="无线新闻" tvg-logo="https://gitee.com/buzhenglin2025/tv/raw/master/logo/TVB无线新闻台.png" group-title="港台专区",TVB无线新闻
+http://iptv.4666888.xyz/iptv2A.php?id=TVB无线新闻&$风云直播
+#EXTINF:-1 tvg-name="TVB Plus" tvg-logo="https://gitee.com/buzhenglin2025/tv/raw/master/logo/tvbplus.png" group-title="港台专区",TVB Plus
+http://iptv.4666888.xyz/iptv2A.php?id=TVBPLUS&$风云直播
+#EXTINF:-1 tvg-name="台视" tvg-logo="https://gitee.com/buzhenglin2025/tv/raw/master/logo/台视.png" group-title="港台专区",台视
+#EXTINF:-1 tvg-name="台视新闻" tvg-logo="https://gitee.com/buzhenglin2025/tv/raw/master/logo/台视新闻.png" group-title="港台专区",台视新闻
+#EXTINF:-1 tvg-name="民视" tvg-logo="https://gitee.com/buzhenglin2025/tv/raw/master/logo/民视.png" group-title="港台专区",民视
+#EXTINF:-1 tvg-name="民视新闻" tvg-logo="https://gitee.com/buzhenglin2025/tv/raw/master/logo/民视新闻台.png" group-title="港台专区",民视新闻台
+#EXTINF:-1 tvg-name="中视" tvg-logo="https://gitee.com/buzhenglin2025/tv/raw/master/logo/中视.png" group-title="港台专区",中视
+#EXTINF:-1 tvg-name="中视新闻" tvg-logo="https://gitee.com/buzhenglin2025/tv/raw/master/logo/中视新闻.png" group-title="港台专区",中视新闻
+#EXTINF:-1 tvg-name="寰宇新闻台" tvg-logo="https://gitee.com/buzhenglin2025/tv/raw/master/logo/寰宇新闻台湾.png" group-title="港台专区",寰宇新闻台
+#EXTINF:-1 tvg-name="NOW新闻" tvg-logo="https://gitee.com/buzhenglin2025/tv/raw/master/logo/NOW新闻.png" group-title="港台专区",NOW新闻
+http://iptv.4666888.xyz/iptv2A.php?id=NOW新闻&$风云直播
+#EXTINF:-1 tvg-name="娱乐新闻台" tvg-logo="https://gitee.com/buzhenglin2025/tv/raw/master/logo/TVBS娱乐新闻台.png" group-title="港台专区",TVB娱乐新闻
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://gitee.com/buzhenglin2025/tv/raw/master/logo/TVB翡翠台.png" group-title="港台专区",TVB翡翠台
+http://iptv.4666888.xyz/iptv2A.php?id=TVB翡翠&$风云直播
+#EXTINF:-1 tvg-name="澳门莲花" tvg-logo="https://gitee.com/buzhenglin2025/tv/raw/master/logo/澳门卫视.png" group-title="港台专区",澳门莲花
+http://live-hls.macaulotustv.com/lotustv/macaulotustv.m3u8
+#EXTINF:-1 tvg-name="国会频道1" tvg-logo="https://gitee.com/buzhenglin2025/tv/raw/master/logo/国会频道1.png" group-title="港台专区",国会频道1
+#EXTINF:-1 tvg-name="国会频道2" tvg-logo="https://gitee.com/buzhenglin2025/tv/raw/master/logo/国会频道2.png" group-title="港台专区",国会频道2
+#EXTINF:-1 tvg-name="法治天地" tvg-logo="https://gitee.com/buzhenglin2025/tv/raw/master/logo/法治天地.png" group-title="求索数字",法治天地
+http://1.032000.xyz:8848/udp/239.94.1.166:5140$四川电信
+#EXTINF:-1 tvg-name="文物宝库" tvg-logo="https://gitee.com/buzhenglin2025/tv/raw/master/logo/文物宝库.png" group-title="求索数字",文物宝库
+http://110.42.37.69:6688/live/live.php?token=reOPfGMpMD&id=wwbk&$郑州电信
+#EXTINF:-1 tvg-name="lovenature" tvg-logo="https://gitee.com/buzhenglin2025/tv/raw/master/logo/lovenature.png" group-title="求索数字",Love Nature HD
+#EXTINF:-1 tvg-name="求索纪录" tvg-logo="https://gitee.com/buzhenglin2025/tv/raw/master/logo/求索纪录.png" group-title="求索数字",求索纪录
+#EXTINF:-1 tvg-name="Discovery" tvg-logo="https://gitee.com/buzhenglin2025/tv/raw/master/logo/Discovery.png" group-title="求索数字",探索频道
+#EXTINF:-1 tvg-name="动物星球" tvg-logo="https://gitee.com/buzhenglin2025/tv/raw/master/logo/动物星球.png" group-title="求索数字",动物星球
+#EXTINF:-1 tvg-name="纪实科教" tvg-logo="https://gitee.com/buzhenglin2025/tv/raw/master/logo/北京纪实科教.png" group-title="求索数字",北京纪实科教
+http://1.032000.xyz:8848/udp/239.94.0.109:5140$四川电信
+#EXTINF:-1 tvg-name="金鹰纪实" tvg-logo="https://gitee.com/buzhenglin2025/tv/raw/master/logo/金鹰纪实.png" group-title="求索数字",金鹰纪实
+http://1.032000.xyz:8848/udp/239.94.1.1:5140$四川电信
+http://110.42.37.69:6688/live/live.php?token=reOPfGMpMD&id=jyjs&$郑州电信
+http://aik.ddnsfile.top:65235/rtp/239.21.1.170:5002$ddn
+http://www.gcc125.cn:6888/rtp/239.49.8.79:8000$江苏南京组播
+#EXTINF:-1 tvg-name="第一财经" tvg-logo="https://gitee.com/buzhenglin2025/tv/raw/master/logo/第一财经.png" group-title="求索数字",第一财经
+http://110.42.37.69:6688/live/live.php?token=reOPfGMpMD&id=shdycj&$郑州电信
+#EXTINF:-1 tvg-name="东方财经" tvg-logo="https://gitee.com/buzhenglin2025/tv/raw/master/logo/东方财经.png" group-title="求索数字",东方财经
+http://1.032000.xyz:8848/udp/239.94.1.59:5140$四川电信
+http://www.gcc125.cn:6888/rtp/239.49.0.95:8000$江苏南京组播
+#EXTINF:-1 tvg-name="快乐垂钓" tvg-logo="https://gitee.com/buzhenglin2025/tv/raw/master/logo/快乐垂钓.png" group-title="求索数字",快乐垂钓
+http://1.032000.xyz:8848/udp/239.94.1.153:5140$四川电信
+http://110.42.37.69:6688/live/live.php?token=reOPfGMpMD&id=klcd&$郑州电信
+http://www.gcc125.cn:6888/rtp/239.49.0.114:8000$江苏南京组播
+#EXTINF:-1 tvg-name="乐游" tvg-logo="https://gitee.com/buzhenglin2025/tv/raw/master/logo/乐游.png" group-title="求索数字",乐游
+http://1.032000.xyz:8848/udp/239.94.1.164:5140$四川电信
+#EXTINF:-1 tvg-name="茶频道" tvg-logo="https://gitee.com/buzhenglin2025/tv/raw/master/logo/茶频道.png" group-title="求索数字",茶频道
+http://1.032000.xyz:8848/udp/239.94.1.154:5140$四川电信
+http://110.42.37.69:6688/live/live.php?token=reOPfGMpMD&id=cpd&$郑州电信
+http://www.gcc125.cn:6888/rtp/239.49.0.146:8000$江苏南京组播
