@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://gitee.com/taksssss/tv/raw/main/epg/epgpw_cn.xml.gz,https://gitee.com/taksssss/tv/raw/main/epg/epgpw_hk.xml.gz,https://gitee.com/taksssss/tv/raw/main/epg/epgpw_tw.xml.gz,http://epg.myxcwh.com:5678/epg,https://epg.aptv.app/pp.xml.gz" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+#EXTM3U x-tvg-url="https://develop202.github.io/migu_video/playback.xml,https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/playback.xml,https://gh-proxy.com/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/playback.xml" catchup="append" catchup-source="&playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}"
 
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1综合" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV1综合
 https://stream.iptv-search.com/iptv_test/main.php?id=CCTV1&t=1761535820&token=e0d3682a414c20a42405e6e906daa092
@@ -170,5 +170,6 @@ https://stream.iptv-search.com/iptv_test/main.php?id=%E4%B8%89%E6%B2%99%E5%8D%AB
 
 #EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/深圳卫视.png" group-title="卫视",深圳卫视
 https://stream.iptv-search.com/iptv_test/main.php?id=%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86&t=1761535820&token=4471f3eb4dd30cef26b3197c2b45ce79
+
 
 
