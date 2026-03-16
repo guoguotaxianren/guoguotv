@@ -20,7 +20,7 @@ jobs:
 
       - name: Download latest interface.txt from upstream
         run: |
-          curl -sSL https://raw.githubusercontent.com/ioptu/IPTV.txt2m3u.player/refs/heads/main/iptv.m3u -o interface.txt
+          curl -sSL https://raw.githubusercontent.com/ioptu/IPTV.txt2m3u.player/refs/heads/main/migu.m3u -o interface.txt
           test -s interface.txt || (echo "Upstream returned empty file" && exit 1)
 
       - name: Commit and push if changed
